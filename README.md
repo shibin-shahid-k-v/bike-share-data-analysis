@@ -21,3 +21,6 @@ your team will design a new marketing strategy to convert casual riders into ann
 must approve your recommendations, so they must be backed up with compelling data insights and professional data
 visualizations.
 The source of data is from "https://divvy-tripdata.s3.amazonaws.com/index.html". I have used the data from October 2021 to September 2022.
+
+
+Tableau Visualization Link :- https://public.tableau.com/views/GooglecapstoneprojectCasestudyofBikesharedata/Comparisonbetweenweekdays?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
